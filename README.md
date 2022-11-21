@@ -1,4 +1,4 @@
-# Getting
+# Getting Started
 Authentification api using expressJS and mongodb
 
 ## Prerequisites
